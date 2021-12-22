@@ -1,0 +1,35 @@
+.btn {
+    display: inline-block;
+    color: #fff;
+    background: #333;;
+    padding: 0.5em 2 em;
+    border: none;
+    border-radius: 5px;
+}
+.btn:hover {
+    background: #7de408;
+}
+.brn-dark {
+    background: #333;
+    color: #fff;
+}
+.back {
+    background: #93cb52; 
+    color: #fff;
+    width:750px;
+    height: 500px;
+    
+ 
+}
+
+
+#contact .contact-form .form-group {
+    margin: 0.75rem;
+}
+#contact .contact-form label {
+    display: block;
+}
+#contact .contact-form input {
+    width:90%;
+    padding: 0.5rem;
+}
